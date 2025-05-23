@@ -1,0 +1,34 @@
+./Exercise3_Films/Cosmos_War_of_the_Planets.mp4's issue(s) found:
+   input: 30 | requirement's frame_rate : 25
+   input: 314:177 | requirement's aspect_ratio : 16:9
+   input: 628x354 | requirement's resolution : 640x360
+   special condition: Converting the video will modify the bit rate
+   input: 317.103 | requirement's a_bit_r_max : 256
+
+./Exercise3_Films/Last_man_on_earth_1964.mov's issue(s) found:
+   input: mov | requirement's vid_format : mp4
+   input: prores | requirement's video_codec : h264
+   input: pcm_s16le | requirement's audio_codec : aac
+   input: 24 | requirement's frame_rate : 25
+   input: 9.285191 | requirement's  video bit range : 2-5
+   input: 1536.0 | requirement's a_bit_r_max : 256
+
+./Exercise3_Films/The_Gun_and_the_Pulpit.avi's issue(s) found:
+   input: avi | requirement's vid_format : mp4
+   input: rawvideo | requirement's video_codec : h264
+   input: pcm_s16le | requirement's audio_codec : aac
+   input: 180:101 | requirement's aspect_ratio : 16:9
+   input: 720x404 | requirement's resolution : 640x360
+   input: 87.438878 | requirement's  video bit range : 2-5
+   input: 1536.0 | requirement's a_bit_r_max : 256
+
+./Exercise3_Films/The_Hill_Gang_Rides_Again.mp4's issue(s) found:
+   input: 7.53773 | requirement's  video bit range : 2-5
+
+./Exercise3_Films/Voyage_to_the_Planet_of_Prehistoric_Women.mp4's issue(s) found:
+   input: hevc | requirement's video_codec : h264
+   input: mp3 | requirement's audio_codec : aac
+   input: 30 | requirement's frame_rate : 25
+   input: 8.038857 | requirement's  video bit range : 2-5
+   input: 320.0 | requirement's a_bit_r_max : 256
+
